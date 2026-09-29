@@ -1,2 +1,1 @@
-Criação do Product API
-Trabalho G2 Implementação do currency-api
+Trabalho G1 criação do currency-api
